@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Laras Hati Mahendra, a 4th-semester student majoring in Information Systems and Technology at ITB (Institut Teknologi Bandung), where I explore the intersection of technology, data, and problem-solving that can enhance everyday life
+I’m Laras Hati Mahendra, a 4th-semester student in Information Systems and Technology at ITB (Institut Teknologi Bandung), where I explore the intersection of technology (っ◔◡◔)っ
 
 ---
 
