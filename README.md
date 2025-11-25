@@ -9,6 +9,3 @@ I’m Laras Hati Mahendra, a 4th-semester student in Information Systems and Tec
 [![Email](https://img.shields.io/badge/Email-larashatimahendra6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:larashatimahendra6@gmail.com)
 
 ---
-
-### 📈 GitHub Stats
-![Laras's GitHub stats](https://github-readme-stats.vercel.app/api?username=larashtm&show_icons=true&theme=radical)
