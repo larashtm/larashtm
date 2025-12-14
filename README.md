@@ -1,18 +1,7 @@
-<h1 align="center">Hi, I'm Laras Hati Mahendra 👋</h1>
-
-<p align="center">
-  ITB Student · Information Systems & Technology<br/>
-  i explore the intersection of technology (っ◔◡◔)っ
-</p>
-
-<p align="center">
- 🔭 I’m currently working on <strong>College Projects</strong><br>
- 🌱 I’m currently learning <strong>Data Engineering & Web Dev</strong><br>
- 💬 Ask me about <strong>Information Systems</strong><br>
- ⚡ Fun fact: <strong>I love aesthetic tech!</strong>
-</p>
-
----
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Laras+Hati+Mahendra;ITB+Student;Information+Systems+%26+Technology;I+explore+tech+(%E3%81%A3%E2%97%94%E2%97%A1%E2%97%94)%E3%81%A3" alt="Typing SVG" />
+  </a>
 
 <h3 align="center">LANGUAGES</h3>
 <p align="center">
