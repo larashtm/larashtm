@@ -39,10 +39,11 @@
 
 <h3 align="center">STATS</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larashtm&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larashtm&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Laras+Hati+Mahendra;ITB+Student;Information+Systems+%26+Technology;I+explore+tech+(%E3%81%A3%E2%97%94%E2%97%A1%E2%97%94)%E3%81%A3" 
+      alt="Typing SVG"
+    />
+  </a>
+</h2>
