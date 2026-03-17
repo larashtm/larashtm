@@ -10,15 +10,15 @@
 <h3 align="center">LANGUAGES</h3>
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=js,html,css,c,java,express,nodejs,mysql,python&theme=dark"
+    src="https://skillicons.dev/icons?i=js,html,css,c,java,express,nodejs,mysql,postgres,python&theme=dark"
     alt="Languages"
   />
 </p>
 
-<h3 align="center">TOOLS</h3>
+<h3 align="center">TOOLS & ANALYSIS</h3>
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,vscode,postman,docker&theme=dark"
+    src="https://skillicons.dev/icons?i=git,vscode,postman,docker,darwio,notion&theme=dark"
     alt="Tools"
   />
 </p>
