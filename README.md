@@ -18,7 +18,7 @@
 <h3 align="center">TOOLS & ANALYSIS</h3>
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,vscode,postman,docker,notion,tableau,aws,azure,gco&theme=dark"
+    src="https://skillicons.dev/icons?i=git,vscode,postman,docker,notion,aws,azure,gco&theme=dark"
     alt="Tools"
   />
 </p>
